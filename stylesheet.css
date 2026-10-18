@@ -1,0 +1,30 @@
+.banner {
+    width: 100%;
+    height: 300px;
+    background-image: url(assets/images/recetario-banner.png);
+    background-size: cover; 
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid #FAB1EF;
+    box-sizing: border-box;
+}
+.contenido h1{
+    color:#FAB1EF;
+    font-size: 75px;
+    margin-bottom: 5px;
+}
+.contenido p{
+    color:white;
+    font-size: 30px;
+    margin-top: 0;
+}
+body {
+    background-color: #a95e8c;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
